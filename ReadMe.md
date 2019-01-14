@@ -2,6 +2,8 @@ Management of proteomic data to identify differentially abundant proteins accord
 ================
 Jeanne BAZILE, Ioana MOLNAR, Brigitte PICARD, Muriel BONNET
 
+DOI : 10.5281/zenodo.2539329
+
 The R version used for this example is 3.3.2.
 
 The purpose of this document is to present an example of script used to: - discriminate differentially abundant values of an item assayed (here protein abundance) between 2 groups differing by one discriminant factor (here the adiposity) - to assess the correlation between the item values and the discriminant factor.
