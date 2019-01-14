@@ -144,7 +144,7 @@ Correlation between the protein abundances or the gene expressions
 plotCorr(var.lim, data.prot)
 ```
 
-<img src="ReadMe_files/figure-markdown_github/unnamed-chunk-8-1.png" style="display: block; margin: auto;" />
+<img src="Figure_plotCorr.png" style="display: block; margin: auto;" />
 
     ##    Protein1    Protein2    Protein3    Protein4 
     ##  0.06723532  0.82398759 -0.88452690 -0.15145677
